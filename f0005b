@@ -3,4 +3,4 @@ tipp  =  input ( 'Mi a jelszó?' )
 ha  tipp  ==  jelsz ó:
     nyomtatás ( 'szép volt.' )
 más :
-    nyomtatás ( 'ezt elbasztad.')
+    nyomtatás ( 'ezt elrontottad')
