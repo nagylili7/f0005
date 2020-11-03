@@ -1,0 +1,11 @@
+gondolt_sz á m  =  73
+tipp  =  input ( 'Szerinted melyik számra gondolok 1 és 100 között?' )
+tipp  =  int ( tipp )
+gondolt_sz á m2  =  37
+tipp2  =  input ( 'Szerinted melyik számra gondolok 1 és 100 között?' )
+tipp2  =  int ( tipp2 )
+ha  gondolt_sz á m2  ==  tipp2 :
+    nyomtatás ( 'eltaláltad!' )
+    nyomtatás ( 'szép volt!' )
+más :
+    nyomtatás ( 'jaj de hülye vagy.' )
