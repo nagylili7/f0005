@@ -1,0 +1,7 @@
+sz á m  =  input ( 'Adj meg egy egész számot!' )
+sz á m  =  int ( sz á m )
+
+ha  sz á m  > = 0 :
+    print ( 'A' , sz á m , 'természetes szám.' )
+más :
+    nyomtatás ( 'A' , sz á m , 'egy negatív egész szám' )
